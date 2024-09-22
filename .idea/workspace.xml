@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="64fcbe2a-47cb-470d-b6c5-3614494f15ca" name="Changes" comment="Explanation of the function">
-      <change afterPath="$PROJECT_DIR$/.idea/List Advanced DSA-Aman.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/122. (Leetcode)Best Time to Buy and Sell Stock II.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Maximum difference.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +49,7 @@
     "Python.122. (Leetcode)Best Time to Buy and Sell Stock II.executor": "Run",
     "Python.Left Rotate by d Places.executor": "Run",
     "Python.Maximum difference.executor": "Run",
+    "Python.Trapping Rain Water.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "preferences.lookFeel"
@@ -118,7 +111,31 @@
       <option name="project" value="LOCAL" />
       <updated>1726985407268</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Explanation of the function">
+      <option name="closed" value="true" />
+      <created>1726987468424</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726987468424</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Explanation of the function">
+      <option name="closed" value="true" />
+      <created>1726987506914</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726987506914</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Explanation of the function">
+      <option name="closed" value="true" />
+      <created>1726992995619</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1726992995619</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
